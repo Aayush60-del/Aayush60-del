@@ -1,141 +1,141 @@
 <div align="center">
 
-# 👋 Hey, I'm Ayush Negi
+<!-- 🔥 Animated Typing Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D26A&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ayush+Negi;MERN+Stack+Developer;Full+Stack+Web+Builder;DSA+%7C+System+Design+Enthusiast;Always+Learning+New+Tech+🔥" />
 
-### 🚀 MERN Stack Developer | CS Undergrad @ Chandigarh University
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Aayush60-del&color=00d26a&style=flat-square&label=Profile+Views" />
-
-</div>
-
----
-
-# 🧑‍💻 About Me
-
-I'm a passionate **Full Stack Developer** who loves building real-world web applications from scratch.  
-Currently interning at **Algoson Software Pvt. Ltd.** and always looking for new challenges to grow.
-
-- 🔨 Currently building: **PahadiKart** & **Symponify**
-- 🌱 Exploring: **System Design**, **DSA**, and **Advanced React Patterns**
-- 🤝 Open to collaborations on MERN Stack projects
-- 💡 Believe in: *Ship fast, learn faster*
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,java,linux,git,github,vscode" />
+<!-- 👁 Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Aayush60-del&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## ⚡ About Me
 
-## 🛒 PahadiKart — E-Commerce Web App
-
-> Full-stack e-commerce platform for hill artisans
-
-### 🔗 Links
-- Live Demo: https://pahadi-kart.vercel.app/
-- GitHub Repo: https://github.com/Aayush60-del/Pahadi-kart
-
-### ⚙️ Tech Stack
-HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
-
-### ✨ Features
-- JWT Authentication
-- Product APIs
-- Cart & Wishlist
-- Responsive UI
-- Category Browsing
-- Search Functionality
+💻 Passionate Full Stack Developer building scalable real-world applications  
+🚀 Currently interning at **Algoson Software Pvt. Ltd.**  
+🧠 Focused on **DSA, System Design & Backend Engineering**  
+🔥 Love turning ideas into real products  
+🤝 Open for collaborations & internships  
 
 ---
 
-## 🎵 Symponify — Music Streaming Web App
-
-> Spotify-inspired music streaming platform
-
-### 🔗 Links
-- Live Demo: https://symponify.vercel.app/
-- GitHub Repo: https://github.com/Aayush60-del/Symponify-
-
-### ⚙️ Tech Stack
-React.js, Node.js, Express.js, MongoDB
-
-### ✨ Features
-- JWT Authentication
-- Playlist & Liked Songs
-- Album Browsing
-- Admin Dashboard
-- Full Stack Deployment
-
----
-
-## 🗂️ Internalog — Management Platform
-
-> Internal management and logging platform
-
-### 🔗 Links
-- Live Demo: https://internalog.vercel.app/
-- GitHub Repo: https://github.com/Aayush60-del
-
-### ⚙️ Tech Stack
-React.js, Node.js, Express.js, MongoDB
-
-### ✨ Features
-- Dashboard Management
-- Logging System
-- Responsive UI
-- Backend Integration
-
----
-
-# 📊 GitHub Stats
+## 💎 GitHub Dashboard
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush60-del&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<!-- 3D Profile Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush60-del&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush60-del&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush60-del&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Aayush60-del&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush60-del&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 📈 Activity Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush60-del/Aayush60-del/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush60-del/Aayush60-del/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aayush60-del/Aayush60-del/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush60-del&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🤝 Connect With Me
+## 🧠 LeetCode Stats
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aayush-negi-030770366/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://leetcard.jacoblin.cool/Aayush60?theme=dark&font=Fira%20Code&ext=heatmap"/>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind"/>
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+### 🧠 Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript"/>
+
+### 🧰 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker"/>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 PahadiKart — E-Commerce Platform
+🌐 Live: https://pahadi-kart.vercel.app/  
+💻 GitHub: https://github.com/Aayush60-del/Pahadi-kart  
+
+✔ JWT Authentication  
+✔ Cart & Wishlist System  
+✔ Product APIs  
+✔ Admin Dashboard  
+✔ Responsive UI  
+
+---
+
+### 🎵 Symponify — Music Streaming App
+🌐 Live: https://symponify.vercel.app/  
+💻 GitHub: https://github.com/Aayush60-del/Symponify-  
+
+✔ Music Streaming UI  
+✔ Playlist System  
+✔ Search Functionality  
+✔ Responsive Design  
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aayush-negi-a08367334/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/Aayush60-del" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:negiaayush2024@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/Aayush60-del">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </div>
@@ -144,6 +144,6 @@ React.js, Node.js, Express.js, MongoDB
 
 <div align="center">
 
-### ⚡ Build • Break • Learn • Repeat ⚡
+### 💬 *"Code. Build. Ship. Improve. Repeat."*
 
 </div>
