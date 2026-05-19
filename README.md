@@ -1,149 +1,109 @@
 <div align="center">
 
-<!-- 🔥 Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D26A&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ayush+Negi;MERN+Stack+Developer;Full+Stack+Web+Builder;DSA+%7C+System+Design+Enthusiast;Always+Learning+New+Tech+🔥" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d26a,100:0d1117&height=200&section=header&text=Ayush%20Negi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20CS%20Undergrad&descSize=20&descAlignY=60&animation=fadeIn" />
 
-<br/>
-
-<!-- 👁 Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Aayush60-del&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Aayush60-del&color=00d26a&style=flat-square&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Aayush60-del?color=00d26a&style=flat-square&label=Followers" />
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🧑‍💻 About Me
 
-💻 Passionate Full Stack Developer building scalable real-world applications  
-🚀 Currently interning at **Algoson Software Pvt. Ltd.**  
-🧠 Focused on **DSA, System Design & Backend Engineering**  
-🔥 Love turning ideas into real products  
-🤝 Open for collaborations & internships  
-
----
-
-## 💎 GitHub Dashboard
-
-<div align="center">
-
-<!-- 3D Profile Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush60-del&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush60-del&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush60-del&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush60-del&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush60-del&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🧠 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Aayush60?theme=dark&font=Fira%20Code&ext=heatmap"/>
-
-</div>
+```js
+const ayush = {
+  name: "Ayush Negi",
+  role: "Full Stack Developer",
+  education: "CS Undergrad @ Chandigarh University",
+  currently: ["Interning @ Algoson Software Pvt. Ltd.", "Building PahadiKart & Symponify"],
+  exploring: ["System Design", "DSA", "Advanced React Patterns"],
+  openTo: "MERN Stack Collaborations",
+  motto: "Ship fast, learn faster 🚀"
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind"/>
+<div align="center">
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb&theme=dark&perline=7" />
 
-### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript"/>
+### 🧰 Languages & Tools
+<img src="https://skillicons.dev/icons?i=cpp,java,linux,git,github,vscode&theme=dark&perline=6" />
 
-### 🧰 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker"/>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 PahadiKart — E-Commerce Platform
-🌐 Live: https://pahadi-kart.vercel.app/  
-💻 GitHub: https://github.com/Aayush60-del/Pahadi-kart  
+<table>
+<tr>
+<td width="50%">
 
-✔ JWT Authentication  
-✔ Cart & Wishlist System  
-✔ Product APIs  
-✔ Admin Dashboard  
-✔ Responsive UI  
+### 🛒 PahadiKart
+> Full-stack e-commerce platform for hill artisans
+
+**Tech:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
+
+✅ JWT Authentication  
+✅ Product APIs  
+✅ Cart & Wishlist  
+✅ Responsive UI  
+✅ Category Browsing  
+✅ Search Functionality  
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300d26a?style=for-the-badge&logo=vercel&logoColor=white)](https://pahadi-kart.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush60-del/Pahadi-kart)
+
+</td>
+<td width="50%">
+
+### 🎵 Symponify
+> *(Coming Soon — stay tuned!)*
+
+🔨 Currently building something awesome...
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎵 Symponify — Music Streaming App
-🌐 Live: https://symponify.vercel.app/  
-💻 GitHub: https://github.com/Aayush60-del/Symponify-  
-
-✔ Music Streaming UI  
-✔ Playlist System  
-✔ Search Functionality  
-✔ Responsive Design  
-
----
-
-## 🐍 Contribution Graph
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush60-del&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=00d26a&text_color=ffffff&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush60-del&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&text_color=ffffff&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush60-del&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d26a&fire=00d26a&currStreakLabel=00d26a" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aayush-negi-a08367334/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/Aayush60-del">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-negi-a08367334/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush60-del)
+[![Email](https://img.shields.io/badge/Email-%23ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negiius724@gmail.com)
 
 </div>
 
----
-
 <div align="center">
 
-### 💬 *"Code. Build. Ship. Improve. Repeat."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d26a,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 </div>
