@@ -92,6 +92,45 @@
 - Responsive design
 
 ---
+# 🚀 Featured Project — AIResume
+
+### 🧠 AI Powered Resume Analyzer Platform
+
+AIResume is a full-stack AI application that analyzes resumes, calculates ATS scores, detects missing keywords, and provides intelligent optimization suggestions.
+
+🌐 Live: https://ai-resume-analysis-wheat.vercel.app/dashboard
+💻 GitHub: https://github.com/Aayush60-del/AI-Resume-Analysis
+---
+
+## ✨ Features
+
+✅ AI Resume Analysis  
+✅ ATS Score Generation  
+✅ Resume Upload (PDF)  
+✅ Authentication & Protected Routes  
+✅ Resume History Dashboard  
+✅ Dynamic Insights & Suggestions  
+✅ Responsive Modern UI  
+✅ Cloud File Storage with AWS S3  
+✅ Secure Backend APIs  
+✅ MongoDB Database Integration  
+
+---
+
+## 🛠️ Tech Used
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js"/>
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
+### ☁️ Cloud & Tools
+<img src="https://skillicons.dev/icons?i=aws,git,github,vercel,render"/>
+
+---
+
+
 
 ## 📈 GitHub Activity Graph
 
